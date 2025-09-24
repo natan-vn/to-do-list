@@ -14,7 +14,7 @@ Este projeto é uma aplicação de linha de comando (CLI) desenvolvida em JavaSc
 
 ## 🛠️ Pré-requisitos
 
-- ⚡ Node.js instalado na máquina.
+-  Node.js instalado na máquina.
 
 ## ▶️ Como executar
 
@@ -24,7 +24,7 @@ Este projeto é uma aplicação de linha de comando (CLI) desenvolvida em JavaSc
 4. Execute o comando:
 
 	```bash
-	node todo.js
+	npm start
 	```
 
 5. Siga as instruções exibidas no terminal para interagir com o menu.
