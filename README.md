@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# to-do-list
-Projeto de to-do list em terminal para praticar programação
-=======
 # 📝 To-Do List JS
 
 ## Descrição
@@ -62,4 +58,3 @@ Ao executar o programa, o menu será exibido:
 
 - ⚠️ O programa valida entradas, como títulos vazios ou números de tarefas inválidos, exibindo mensagens de erro apropriadas.
 - 📚 O código é ideal para estudos iniciais em JavaScript, pois cobre conceitos fundamentais como arrays, objetos, funções, e entrada/saída.
->>>>>>> master
