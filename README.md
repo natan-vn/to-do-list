@@ -34,11 +34,11 @@ Este projeto é uma aplicação de linha de comando (CLI) desenvolvida em JavaSc
 - **Módulo readline:** Utilizado para capturar entradas do usuário via teclado e exibir saídas no terminal.
 - **Array tarefas:** Armazena as tarefas como objetos com propriedades `titulo` (string) e `concluida` (boolean).
 - **Função mostrarMenu:** Exibe o menu principal e gerencia o fluxo de opções.
-- 🛠️ **Funções auxiliares:**
+- **Funções auxiliares:**
 	- `listarTarefas`: Lista todas as tarefas com seus status.
 	- `adicionarTarefa`: Adiciona uma nova tarefa à lista.
 	- `marcarComoConcluida`: Altera o status de uma tarefa para concluída.
-	- 🗑️`removerTarefa`: Remove uma tarefa da lista.
+	- `removerTarefa`: Remove uma tarefa da lista.
 
 ## 💡 Exemplo de Uso
 
@@ -46,7 +46,7 @@ Ao executar o programa, o menu será exibido:
 
 ```
 #########################
-###   📝 To-Do List JS   ###
+###  To-Do List JS   ###
 #########################
 [1] Listar todas as tarefas
 [2] Adicionar uma nova tarefa
